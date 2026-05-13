@@ -1,0 +1,37 @@
+{
+  "name": "shreeram-builders-website",
+  "version": "2.0.0",
+  "description": "Premium Real Estate Website - Shreeram Builders & Developers | Diamond Market Project",
+  "main": "server.js",
+  "keywords": [
+    "real-estate",
+    "shreeram-builders",
+    "diamond-market",
+    "palghar",
+    "residential",
+    "commercial"
+  ],
+  "author": "Shreeram Builders & Developers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shreeram-builders/website.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "nodemailer": "^6.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
