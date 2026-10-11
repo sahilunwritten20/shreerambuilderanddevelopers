@@ -1,7 +1,7 @@
 Shreeram Builders & Developers — Diamond Market Website
 A modern, responsive real estate website showcasing Diamond Market, featuring 3D building videos, property details, site visit booking, and contact information.
 
-## Features
+Features
 
 - Modern white theme with gold accents.
 - Responsive design for mobile, tablet, and desktop.
