@@ -1,7 +1,4 @@
-# Shreeram Builders & Developers — Diamond Market Website
-
-**Version 2.0 | Modern White Theme with 3D Building Videos**
-
+Shreeram Builders & Developers — Diamond Market Website
 A modern, responsive real estate website showcasing Diamond Market, featuring 3D building videos, property details, site visit booking, and contact information.
 
 ## Features
@@ -67,22 +64,6 @@ shreeram-builders-website/
 
 *Confirm prices, availability, and project details with the developer before publishing.*
 
-## Getting Started
-
-**Run using Python:**
-
-```bash
-python -m http.server 8000
-```
-
-Open `http://localhost:8000` in your browser.
-
-Alternatively, use VS Code Live Server or Node.js:
-
-```bash
-npx http-server
-```
-
 ## Customization
 
 - **Company details:** Update contact information in `index.html`.
@@ -95,9 +76,6 @@ npx http-server
 The website can be deployed using:
 
 - Vercel
-- Netlify
-- Shared hosting
-- AWS, Google Cloud, or Azure
 
 ## Important Notes
 
@@ -115,7 +93,8 @@ The website can be deployed using:
 - **Email:** [shreerambuildersndevelopers@gmail.com](mailto:shreerambuildersndevelopers@gmail.com)
 - **Instagram:** [@shreeram_builders_](https://instagram.com/shreeram_builders_)
 
----
 
-**Building Dreams into Reality**
+
+Building Dreams into Reality 
+Built with Sahil Gupta
 
